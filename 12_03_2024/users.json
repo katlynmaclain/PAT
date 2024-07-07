@@ -1,0 +1,26 @@
+{
+    "user1" : {
+        "nama" : "Andi",
+        "password" : "password1",
+        "role" : "student",
+        "id" : 1
+    },
+    "user2" : {
+        "nama" : "Budi",
+        "password" : "password2",
+        "role" : "student",
+        "id" : 2
+    },
+    "user3" : {
+        "nama" : "Candra",
+        "password" : "password3",
+        "role" : "student",
+        "id" : 3
+    },
+    "user4" : {
+        "nama" : "Dedi",
+        "password" : "password4",
+        "role" : "student",
+        "id" : 4
+    }
+}
